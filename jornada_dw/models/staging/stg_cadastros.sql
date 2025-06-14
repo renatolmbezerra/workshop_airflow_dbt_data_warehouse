@@ -10,7 +10,7 @@ transformado as (
 
         -- Dados pessoais
         nome,
-        data_nascimento,
+        data_nascimento as dt_nascimento,
         genero,
 
         -- Dados de contato
